@@ -1,0 +1,42 @@
+#input-div{
+    margin-top: 2pt;
+    padding: 2pt;
+    height: 7%;
+  }
+
+  #input-name{
+    margin-right: 2pt;
+    margin-bottom: 2pt;
+    text-align: center;
+    width: 99%;
+    height: fill;
+    border-radius: 3pt;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 240, 0.651);
+    outline: none;
+  }
+  
+
+  #input-amount{
+    text-align: center;
+    float: left;
+    width: 68.5%;
+    height: fill;
+    border-radius: 3pt;
+    border: 1px solid black;
+    background-color: rgba(255, 255, 240, 0.651);
+    outline: none;
+  }
+  
+  #input-button{
+    float: right;
+    width: 30%;
+    height: fill;
+  }
+
+  #input-title{
+    text-align: left;
+    margin-top: 10pt;
+    margin-left: 2pt;
+    font-size: small;
+  }

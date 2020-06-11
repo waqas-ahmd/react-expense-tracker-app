@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    margin: 2pt;
+    height: max-content;
+  }
+  
+  .one {
+    float: left;
+  }
+  
+  .two {
+    margin-left: 50.5%;
+  }
+  
+  .amounts{
+    background: rgb(190, 190, 190);
+    width: 49.5%;
+    border-radius: 2pt;
+  }
+  
+  .sub-amount{
+    text-align: right;
+    padding: 10pt;
+    font-size: 6vh;
+  }
+
+  .sub-title{
+      text-align: left;
+      margin-left: 10pt;
+  }

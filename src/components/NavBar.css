@@ -1,0 +1,10 @@
+#appbar{
+    padding: 10pt;
+    margin: 0;
+    background-color: hsl(199, 45%, 43%);
+  }
+  
+  .title{
+    letter-spacing: 1pt;
+    font-weight: 600;
+  }
