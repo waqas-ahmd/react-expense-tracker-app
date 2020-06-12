@@ -9,7 +9,7 @@ function Amounts() {
   const total = amounts.reduce((acc,item) => (acc += item), 0).toFixed(2);
   return (  
     <div id = "your-balance">
-    <div>Your Balance:</div>
+    <div>Total Balance:</div>
   <div id="total-amount">{"$"+total}</div>
   </div>
   );
