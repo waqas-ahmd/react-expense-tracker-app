@@ -1,0 +1,48 @@
+.item{
+    margin: 2pt;
+    background-color: rgb(141, 141, 141);
+    padding: 2pt;
+    margin-bottom: 2pt;
+    border-radius: 2pt; 
+    display: flex;
+    justify-content: space-between;  
+}
+.itm-name{
+    padding-top: 2pt;
+    margin-left: 2pt;
+    letter-spacing: 0.3pt;
+}
+.itm-amount{
+    font-size: x-large;
+    margin-right: 2pt;
+    color: rgb(0, 0, 0);
+}
+
+.minus{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgb(248, 133, 56) 100%);
+}
+
+.plus{
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgb(27, 243, 153) 100%);
+}
+
+.delete-btn{
+    background-color: crimson;
+    padding-left: 6pt;
+    padding-right: 6pt;
+    color: white;
+    border-radius: 2pt;
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+      -webkit-user-select: none; 
+       -khtml-user-select: none;
+         -moz-user-select: none; 
+          -ms-user-select: none; 
+              user-select: none;
+  }
+
+.hidden{
+    visibility: hidden;
+}

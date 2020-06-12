@@ -3,14 +3,23 @@
 }
 
 #container{
-  background-color: rgb(233, 233, 233);
+  background-color: rgba(215, 235, 247, 0.884);
   height: 100vh;
   padding-left: 0px;
   padding-right: 0px;
+  text-emphasis: center;
 }
 
 .MuiContainer-root {
   padding-left: 0px;
   padding-right: 0px;
+}
+
+.list-title{
+  background-color: hsl(199, 45%, 43%);
+  padding: 2pt;
+  margin: 2pt;
+  color: white;
+  font-weight: 500;
 }
 

@@ -1,26 +1,28 @@
 .container{
     text-align: center;
-    margin: 2pt;
+    margin: 3pt;
     height: max-content;
   }
   
   .one {
+    background: linear-gradient(90deg, rgba(133,198,252,1) 0%, rgba(0,129,255,1) 100%);
     float: left;
   }
   
   .two {
+    background: linear-gradient(90deg, rgba(252,219,133,1) 0%, rgba(255,166,0,1) 100%);
     margin-left: 50.5%;
   }
   
   .amounts{
-    background: rgb(190, 190, 190);
     width: 49.5%;
     border-radius: 2pt;
   }
   
   .sub-amount{
+    color: white;
     text-align: right;
-    padding: 10pt;
+    padding: 4pt;
     font-size: 6vh;
   }
 

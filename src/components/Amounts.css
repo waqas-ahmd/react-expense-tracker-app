@@ -1,16 +1,17 @@
 #your-balance{
     text-align: left;
-    padding: 10pt;
+    padding: 5pt;
+    padding-left: 10pt;
     padding-top: 0;
-    background-color: lightcoral;
-    margin: 2pt;
+    margin: 3pt;
     border-radius: 2pt;
+    background: linear-gradient(90deg, rgba(252,133,215,1) 0%, rgba(64,0,70,1) 100%);;
   }
   
   #total-amount{
     margin: auto;
     text-align: right;
-    font-size: 7vh;
+    font-size: 6vh;
     font-weight: bold;
-    color: hsl(199, 45%, 43%);
+    color: hsl(0, 0%, 100%);
   }

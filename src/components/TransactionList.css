@@ -1,0 +1,16 @@
+.list-main{
+    background-color: rgb(104, 104, 104);
+    margin: 2pt;
+    border-radius: 2pt;
+    text-align: left;
+    max-height: 40%;
+    overflow-y: scroll;
+}
+
+
+.list{
+    list-style-type:none;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 3pt;
+}
